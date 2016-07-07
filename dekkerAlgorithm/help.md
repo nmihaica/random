@@ -9,7 +9,7 @@ Mutual exclusion solution by implementing [Dekker's algorithm](https://en.wikipe
 ```./dekker``` run .
 
 #### Info  
-Mutual exclusion is turned ```off``` by default. To enable it uncomment
+Mutual exclusion is turned ```off``` by default. To enable it, uncomment
 following functions in ```__threadJob()``` function .
 
 ```c
