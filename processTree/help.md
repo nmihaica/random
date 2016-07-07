@@ -14,7 +14,6 @@ C program which creates ```n``` levels dependent tree of processes using ```POSI
 
 ```make clean```  clean the executable .
 
->>>>>>> 53909cb0d97192147c9a6a7a37c32beaac2aefcf
 ```./process``` run .
 
 #### Info  
