@@ -11,14 +11,11 @@ Also you need to print the result on the screen.
 **5** is the maximum number of allowed processes.
 
 #### Compile, build and run
-```make```  
-compile and build executable  
+```make``` compile and build executable .
 
-```make clean```     
-clean the executable
+```make clean``` clean the executable .
 
-```./forking```  
-run
+```./forking``` run .
 
 #### Info  
 Place following command into ```main.c``` file to enable parent process to
