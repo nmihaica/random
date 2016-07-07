@@ -3,14 +3,11 @@
 C program which creates ```n``` levels dependent tree of processes using ```POSIX``` system calls .
 
 #### Compile, build and run
-```make```  
-compile and build executable  
+```make``` compile and build executable .
 
-```make clean```     
-clean the executable
+```make clean``` clean the executable .
 
-```./process```  
-run
+```./process``` run .
 
 #### Info  
 ```c
