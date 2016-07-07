@@ -15,7 +15,7 @@ Also you need to print the result on the screen.
 
 ```make clean``` clean the executable .
 
-```./forking``` run .
+```./forking n``` run. *n* being the number of polygons/processes .
 
 #### Info  
 Place following command into ```main.c``` file to enable parent process to
