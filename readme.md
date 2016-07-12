@@ -14,5 +14,5 @@ Implementation of Dekker's algorithm .
 
 Dependencies are located in the corresponding folders
 
-- ```/.dotfiles/.vimrc```
-- ```/.dotfiles/.bashrc```
+- ```.dotfiles/.vimrc```
+- ```.dotfiles/.bashrc```
