@@ -1,6 +1,6 @@
 ## Summary
 
-Repo of random projects.
+Repo of random work and other stuff.
 
 ##### C 
 - ```/processTree```
