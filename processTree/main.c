@@ -13,12 +13,12 @@ void about(){
 
 void doWork(){
     printf("Spawning process ...\n");
-    sleep(5);
+    sleep(SLEEP_TIME);
 }
 
 void exiting(){
     printf("Exiting process ... %d\n", getpid());
-    sleep(5);
+    sleep(SLEEP_TIME);
     exit(0);
 }
 
