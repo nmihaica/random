@@ -1,13 +1,15 @@
 ## Summary
 
-Repo of random work and other stuff.
+Repository of random work and other stuff.
 
-##### C 
-- ```/processTree```
+##### C
+- ```/signalsAndInterrupts```
+OS assignment. Handling multiple levels of interruption.
+- ```./processTree```
 Program generates *n* levels deep tree of dependent processes .
-- ```/polygonProcess```
+- ```./polygonProcess```
 Program generates *n* simultaneous processes, simultaneously calculating surface area & circumference of a regular polygon .
-- ```/dekkerAlgorithm```
+- ```./dekkerAlgorithm```
 Implementation of Dekker's algorithm .
 
 ##### .dotfiles
